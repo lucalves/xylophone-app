@@ -1,6 +1,8 @@
-# Xylophone
+<p align="center"><img src=".github/app-icon.png" width="100px"/></p>
 
-An application developed in Swift, it is a xilophone that plays a sound according to the key pressed.
+<h1 align="center">Xylophone</h1>
+
+<p align="center">An application developed in Swift, it is a xilophone that plays a sound according to the key pressed.</p>
 
 ## About
 
