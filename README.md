@@ -10,11 +10,21 @@ This was an application designed to practice the basics of Swift.
 
 ## Screenshots
 
-[In Progress...]
+<img src=".github/simulator-screenshot.png" width="250px"/>
 
 ## Technologies
 
 - [Swift](https://swift.org/)
+
+## What I learned with this app
+
+- How to play sound using Apple Documentation;
+- Learn about Swift Functions;
+- Linking multiple elements to one IBAction;
+- Creating functions with inputs;
+- Play different sounds for different buttons;
+
+
 
 ## How to Install
 
