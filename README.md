@@ -18,7 +18,7 @@ This was an application designed to practice the basics of Swift.
 
 ## What I learned with this app
 
-- How to play sound using Apple Documentation;
+- How to play sound using [Apple Documentation](https://developer.apple.com/documentation);
 - Learn about Swift Functions;
 - Linking multiple elements to one IBAction;
 - Creating functions with inputs;
